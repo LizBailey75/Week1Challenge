@@ -10,3 +10,5 @@ Heading attributes now found in sequential order
 
 Page given concise, descriptive title
 
+https://lizbailey75.github.io/Week1Challenge/
+
