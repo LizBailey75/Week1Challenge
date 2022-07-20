@@ -4,10 +4,21 @@
     margin: 0;
 }
 
+/*Body*/
 body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +52,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/*Main Image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/*Content*/
 .content {
     width: 75%;
     display: inline-block;
@@ -129,6 +133,7 @@ p {
     color: #ffffff;
 }
 
+/*Asside - Benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +193,7 @@ p {
     color: #ffffff;
 }
 
+/*Footer*/
 .footer {
     padding: 30px;
     clear: both;
