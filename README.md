@@ -12,3 +12,4 @@ Page given concise, descriptive title
 
 https://lizbailey75.github.io/Week1Challenge/
 
+![image](https://user-images.githubusercontent.com/108904662/180049787-58eaa1af-fdb1-41b5-947a-e2f03c5c266d.png)
